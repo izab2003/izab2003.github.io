@@ -49,7 +49,7 @@ footer {
         
         <section id="descriere-anotimp">
             <h2>Despre Primavara</h2>
-            <p>Primavara este simbolul renasterii, marcat de echinoctiul de primavara. Primavara inseamna dezghet, topire, trezire la viata.</p>
+            <p>Primavara este simbolul renasterii, marcat de echinoctiul de primavara. Primavara inseamna dezghet, topire, trezire la viata. După o iarna lunga și rece, primavara aduce cu ea o explozie de culori si sunete care transforma intreaga natura.</p>
             
             <figure>
                 <img src="https://imgs.search.brave.com/SV0xFgMOeLZTc4SgRKv7a2FlMmtSe8X4qlUiHP_4FEQ/rs:fit:500:0:1:0/g:ce/aHR0cDovL3d3dy5y/b2dyYWRpbmkucm8v/d3AtY29udGVudC91/cGxvYWRzLzIwMTMv/MDEvcG96ZS1jdS1m/bG9yaS1kZS1wcmlt/YXZhcmEtaW1hZ2lu/aS1jdS1naGlvY2Vp/LWdhbGFudGh1cy1u/aXZhbGlzLTU5Lmpw/Zw" alt="Ghiocei_albi" class="media-style">
@@ -62,8 +62,8 @@ footer {
             <article class="card-articol">
                 <h3>Martisorul</h3>
                 <p>Firul impletit in alb si rosu oferit la 1 Martie ca simbol al norocului.</p>
-                <p>Rosul: Reprezinta vitalitatea, dragostea, focul, soarele sau sangele (sacrificiul), fiind adesea asociat cu vara.
-                   Albul: Simbolizeaza puritatea, lumina, pacea, divinitatea si iarna care se incheie.</p>
+                <p>Rosul: Reprezinta vitalitatea, dragostea, focul, soarele sau sangele (sacrificiul), fiind adesea asociat cu vara.</p>
+                <p>Albul: Simbolizeaza puritatea, lumina, pacea, divinitatea si iarna care se incheie.</p>
             </article>
 
             <article class="card-articol">
